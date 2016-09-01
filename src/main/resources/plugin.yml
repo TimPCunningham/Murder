@@ -1,0 +1,6 @@
+main: github.timpcunningham.Murder
+name: Murder
+version: 0.1
+author: PepsiDog
+description: Gary's Mod Murder
+depend: [ProtocolLib]

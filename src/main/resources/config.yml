@@ -1,0 +1,21 @@
+#
+#
+#
+#
+#
+
+autostart: false
+players: 8
+killer-percentage: .25
+vigilante-percentage: .25
+
+lobby:
+  path: pathToLobbyWorld
+  spawn: 0,0,0
+
+maps:
+  mapOne:
+    path: pathToMapWorld
+    spawns:
+    - 0,0,0
+    - 0,0,0
