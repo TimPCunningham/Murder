@@ -29,7 +29,7 @@ class KnifeThrownItem extends AbstractThrownItem {
                 new BukkitRunnable() {
                     @Override
                     public void run() {
-                        DeadPlayer.display((Player) entity);
+                        //DeadPlayer.display((Player) entity);
                         Bukkit.broadcastMessage("HIT");
                     }
                 }.runTask(Murder.getInstance());
